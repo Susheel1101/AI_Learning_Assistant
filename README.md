@@ -6,7 +6,7 @@ An interactive learning platform leveraging Claude's computer use capabilities f
 
 This project addresses the challenge of computer skills education by combining Claude in Compute's capabilities with a structured Streamlit interface. Users can receive interactive, real-time demonstrations of computer skills across multiple applications.
 
-Link to the video recording - https://drive.google.com/file/d/1YUP1OOAJFBB3XnGOr55XmtfzNSPIzJMn/view?usp=sharing
+Link to the video recording - [AI_Assistant_Learning](https://drive.google.com/file/d/1YUP1OOAJFBB3XnGOr55XmtfzNSPIzJMn/view?usp=sharing)
 
 ### Supported Applications
 - LibreOffice Calc (Spreadsheets)
