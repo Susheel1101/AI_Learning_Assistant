@@ -1,4 +1,4 @@
-# AI Learning Assistant Project
+# AI Learning Assistant 
 
 An interactive learning platform leveraging Claude's computer use capabilities for personalized computer skills education.
 
